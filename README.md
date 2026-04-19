@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Riyas
-- 👀 I’m interested in Data Engineering, Cloud Solutions, AI/ML, etc.
+- 👀 I’m interested in Data Engineering, Cloud Solutions, and AI/ML.
 - 💞️ I’m looking to collaborate on Cloud/AI/ML projects
 
 <!---
